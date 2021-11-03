@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "732518437453",
+    "project_id": "arzaana",
+    "storage_bucket": "arzaana.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732518437453:android:b20486170d7bbd49084204",
+        "android_client_info": {
+          "package_name": "com.example.arzaan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732518437453-r9saupbpsmtjj1o3g9kj5hvvc5jja1c1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD5IXvL2yRFR8-X1x8EyHDNCImNgLP9Pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732518437453-r9saupbpsmtjj1o3g9kj5hvvc5jja1c1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732518437453:android:ce63f8b00c4ecebc084204",
+        "android_client_info": {
+          "package_name": "com.example.grocery_vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732518437453-r9saupbpsmtjj1o3g9kj5hvvc5jja1c1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD5IXvL2yRFR8-X1x8EyHDNCImNgLP9Pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732518437453-r9saupbpsmtjj1o3g9kj5hvvc5jja1c1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
